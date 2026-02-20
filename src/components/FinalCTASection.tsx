@@ -23,7 +23,7 @@ const FinalCTASection = () => (
           size="lg"
           className="bg-card text-foreground hover:bg-card/90 text-base px-8 h-12 shadow-lg font-semibold"
         >
-          <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
+          <a href="https://api.whatsapp.com/send?phone=5511951987871&text=Ol%C3%A1,%20quero%20entender%20como%20a%20Minerva%20pode%20melhorar%20o%20atendimento%20da%20minha%20cl%C3%ADnica" target="_blank" rel="noopener noreferrer">
             Falar com a Minerva
             <ArrowRight className="ml-2 h-4 w-4" />
           </a>
